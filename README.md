@@ -1,2 +1,2 @@
 # myPage
-Mi página web
+veirficacion de ads
